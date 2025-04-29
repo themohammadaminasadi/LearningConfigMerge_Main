@@ -1,0 +1,15 @@
+h1{
+    color: black;
+}
+.itemBox{
+    background-color: silver;
+    height: 150px;
+    border-radius: 7px;
+    /* flex-basis: 24%; */
+    text-align: center;
+    padding: 0px 10px;
+}
+.container-Box{
+    display: flex;
+    justify-content: space-between;
+}
