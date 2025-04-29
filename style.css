@@ -1,8 +1,11 @@
+body{
+    background-color: rgb(194, 191, 191);
+}
 h1{
-    color: black;
+    color: red;
 }
 .itemBox{
-    background-color: silver;
+    background-color: white;
     height: 150px;
     border-radius: 7px;
     /* flex-basis: 24%; */
